@@ -1,0 +1,8 @@
+POST https://8080-marcoweb-apiteste202403-6pn1tybe4ow.ws-us110.gitpod.io/alunos
+Content-Type: application/json
+
+{
+    "nome": "Marco Carvalho",
+    "idade": 43,
+    "curso": "Big Data"
+}

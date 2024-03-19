@@ -1,0 +1,8 @@
+PUT https://8080-marcoweb-apiteste202403-6pn1tybe4ow.ws-us110.gitpod.io/alunos/1
+Content-Type: application/json
+
+{
+    "nome": "Marco Carvalho",
+    "idade": 44,
+    "curso": "Eng. Soft."
+}
